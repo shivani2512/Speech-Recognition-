@@ -1,0 +1,1 @@
+It is a Java base project working on sphinx API where you can give commands to laptop and it will respond accordingly.
