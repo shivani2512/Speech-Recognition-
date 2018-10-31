@@ -1,0 +1,9 @@
+#JSGF V1.0;
+
+/**
+ * JSGF Grammar
+ */
+
+grammar grammar;
+
+public <command> = (Open | Close) (Microsoft Word | Word | Microsoft Excel | Excel | Microsoft Power Point | Power Point | Paint | Calculator | Note Pad | Browser | Command | Device Manager | Control Panel | Task Manager | Windows Security Center | Word Pad | Photo Shop);
